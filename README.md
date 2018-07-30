@@ -1,3 +1,3 @@
 # cdyworkerbot
 
-telegram testbot for official candy pool
+telegram testbot for official bitcoin candy pool
